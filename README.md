@@ -1,5 +1,3 @@
-Here’s the complete `README.md` file content in a single code block for easy copying:
-
 ```markdown
 # CAA900 Capstone Project - WebGeeks Food Rescue App Deployment
 
